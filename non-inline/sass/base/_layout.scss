@@ -1,0 +1,52 @@
+.wrapper {
+  background-color: #ededed;
+  /* Basics */ }
+
+.center {
+  margin: 0 auto; }
+
+.container {
+  max-width: 600px;
+  width: 100%; }
+
+.expand-container {
+  width: 100% !important; }
+
+  .gutter {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px; }
+
+table {
+  border-spacing: 0;
+  font-family: sans-serif;
+  color: $primary-color; }
+  table td {
+    padding: 0;
+    font-family: Arial, sans-serif; }
+
+.img-fluid img {
+  max-width: 100%;
+  height: auto; }
+
+.center-inline-blocks {
+  text-align: center;
+  font-size: 0;
+  line-height: 0;
+  vertical-align: top; }
+
+.inline {
+  vertical-align: top;
+  text-align: left;
+  display: inline-block;
+  width: 100%; }
+
+.col-inline-150 {
+  max-width: 150px; }
+
+.col-inline-200 {
+  max-width: 200px; }
+
+.col-inline-300 {
+  max-width: 300px; }

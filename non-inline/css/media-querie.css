@@ -1,0 +1,14 @@
+@media screen and (max-device-width: 550px), screen and (max-width: 550px){
+    .expand-container{
+    width:100%!important;
+    padding:0!important;
+    }
+    .gutter {
+    padding-left:20px!important;
+    padding-right: 20px!important;
+    }
+    .img-fluid {
+
+    }
+
+  }
